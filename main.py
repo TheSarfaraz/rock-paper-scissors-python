@@ -1,4 +1,10 @@
 # Author: @TheSarfaraz
+# Date: 15 January 2021
+
+# Rock Paper Scissors Game 
+# 100DaysOfCode
+# Day 4 
+# Udemy - 100 Days of Code - The Complete Python Pro Bootcamp for 2021
 
 import random
 
