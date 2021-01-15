@@ -1,3 +1,5 @@
+# Author: @TheSarfaraz
+
 import random
 
 rock = '''
